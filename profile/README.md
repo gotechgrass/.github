@@ -1,69 +1,55 @@
-# GoTech Grass
+<div align="center">
 
-> Build fast. Ship useful things. Touch grass.
+<img src="./assets/org_logo.png" width="180" alt="GoTechGrass">
 
-GoTech Grass is an open-source project lab focused on building practical
-software, AI experiments, developer tools, creative technology, and useful
-open-source projects.
+# GoTechGrass
+
+**Build fast. Ship useful things. Touch grass.**
+
+Open-source projects, experiments, and ideas built with curiosity.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gotechgrass)
+[![Projects](https://img.shields.io/badge/Projects-Explore-2ea44f?style=flat)](https://github.com/gotechgrass?tab=repositories)
+
+---
 
 ## What We Build
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Developer Tools
-- Web Experiences
-- Automation
-- Creative Technology
-
-## Our Philosophy
-
-Build something useful.
-
-Learn from it.
-
-Ship it.
-
-Improve it.
-
-Then go touch grass.
+Artificial Intelligence  
+Deep Learning & Machine Learning  
+Developer Tools  
+Computer Vision  
+Automation  
+Creative Technology  
+Experimental Projects
 
 ---
 
-## Projects
+## The Idea
 
-Our repositories are built around practical experiments, tools, and
-open-source projects.
-
-Explore our repositories:
-
-[View 'GoTechGrass' on GitHub](https://github.com/gotechgrass)
+**Build something.**  
+**Learn from it.**  
+**Ship it.**  
+**Then go touch grass.**
 
 ---
 
-## Founder
+## Open Source
 
-**Hasher Amin**
+Everything here is built to be explored, learned from, improved, and shared.
 
-Designer and Developer exploring AI, Machine Learning, Computer Vision,
-developer tools, and creative technology.
+**Have an idea? Build it with us.**
 
-- [GitHub](https://github.com/hasheramin5-cyber)
-- [LinkedIn](https://www.linkedin.com/in/hasheramin/)
-- [X](https://x.com/hasheramin_code)
+<br>
 
----
-
-## Contributing
-
-Have an idea or want to contribute?
-
-Open an issue, start a discussion, or submit a pull request.
-
-Ideas are welcome. Good code is even better.
+<a href="https://github.com/gotechgrass">
+  <img src="./assets/Explore_Repo.png" width="300" alt="Explore Repositories">
+</a>
 
 ---
 
-<p align="center">
-  <strong>Build fast. Learn deeply. Touch grass.</strong>
-</p>
+### Build. Ship. Touch Grass
+
+</div>
